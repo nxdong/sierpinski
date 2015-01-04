@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sierpinski", "Sierpinski\Sierpinski.vcxproj", "{21171C4A-2F2F-4E79-A266-2E92C308E5B5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "recursionSierpinski", "recursionSierpinski\recursionSierpinski.vcxproj", "{69932EB7-F4EE-4EFC-BDDD-A9DDB60FB5FB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3Dsierpinski", "3Dsierpinski\3Dsierpinski.vcxproj", "{2F0C3560-69FC-47BA-AE60-03CD44B2BC89}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "等高线", "等高线\等高线.vcxproj", "{1815DDA4-32F6-4D79-97CD-883477EC2D85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21171C4A-2F2F-4E79-A266-2E92C308E5B5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{21171C4A-2F2F-4E79-A266-2E92C308E5B5}.Debug|Win32.Build.0 = Debug|Win32
+		{21171C4A-2F2F-4E79-A266-2E92C308E5B5}.Release|Win32.ActiveCfg = Release|Win32
+		{21171C4A-2F2F-4E79-A266-2E92C308E5B5}.Release|Win32.Build.0 = Release|Win32
+		{69932EB7-F4EE-4EFC-BDDD-A9DDB60FB5FB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{69932EB7-F4EE-4EFC-BDDD-A9DDB60FB5FB}.Debug|Win32.Build.0 = Debug|Win32
+		{69932EB7-F4EE-4EFC-BDDD-A9DDB60FB5FB}.Release|Win32.ActiveCfg = Release|Win32
+		{69932EB7-F4EE-4EFC-BDDD-A9DDB60FB5FB}.Release|Win32.Build.0 = Release|Win32
+		{2F0C3560-69FC-47BA-AE60-03CD44B2BC89}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2F0C3560-69FC-47BA-AE60-03CD44B2BC89}.Debug|Win32.Build.0 = Debug|Win32
+		{2F0C3560-69FC-47BA-AE60-03CD44B2BC89}.Release|Win32.ActiveCfg = Release|Win32
+		{2F0C3560-69FC-47BA-AE60-03CD44B2BC89}.Release|Win32.Build.0 = Release|Win32
+		{1815DDA4-32F6-4D79-97CD-883477EC2D85}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1815DDA4-32F6-4D79-97CD-883477EC2D85}.Debug|Win32.Build.0 = Debug|Win32
+		{1815DDA4-32F6-4D79-97CD-883477EC2D85}.Release|Win32.ActiveCfg = Release|Win32
+		{1815DDA4-32F6-4D79-97CD-883477EC2D85}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
